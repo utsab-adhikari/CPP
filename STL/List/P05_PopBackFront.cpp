@@ -14,7 +14,7 @@ int main() {
         cout<<car<<endl;
     }
 
-    // adding elements to front and back
+    // removing elements from front and back
     cars.pop_front();
     cars.pop_back();
     
